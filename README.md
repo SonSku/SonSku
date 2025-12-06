@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Sonia! (SonSku)
 
-🎓 Computer Engineering student at AGH  
+🎓 Computer Science in Engineering student at AGH  
 💻 I enjoy programming (mostly Python & C++)  
 🎮 Getting into game dev & 3D (Unity / UE5 / Blender)  
 🧠 Curious about AI and technical experiments  
